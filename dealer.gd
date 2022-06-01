@@ -15,6 +15,8 @@ func _ready():
 	var game_dec = blacjac_dec.new(standard_dec_type, 2)
 	print(game_dec)
 
+	# add a comment test
+
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 # func _process(delta):
